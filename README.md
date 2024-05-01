@@ -17,7 +17,7 @@ struct TitleModifier: ViewModifier {
     }
 ```
 
-## Using extension 
+## Using extension(much simpler💡）
 
 ```swift
 extension View {
